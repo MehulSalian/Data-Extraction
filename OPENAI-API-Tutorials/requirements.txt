@@ -2,10 +2,3 @@ openai
 pandas 
 numpy 
 python-dotenv
-mehul
-salian
-hello
-hi
-change
-has 
-made
