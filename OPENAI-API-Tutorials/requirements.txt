@@ -2,6 +2,3 @@ openai
 pandas 
 numpy 
 python-dotenv
-mehul
-salian
-hi
