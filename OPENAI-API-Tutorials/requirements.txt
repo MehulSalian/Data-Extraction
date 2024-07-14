@@ -2,4 +2,3 @@ openai
 pandas 
 numpy 
 python-dotenv
-MEHUL
